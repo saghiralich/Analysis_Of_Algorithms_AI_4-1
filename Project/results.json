@@ -1,0 +1,22 @@
+{
+  "keywords": [
+    { "word": "luther", "score": "3.26" },
+    { "word": "his", "score": "1.58" },
+    { "word": "martin", "score": "1.39" },
+    { "word": "luthers", "score": "1.31" },
+    { "word": "church", "score": "0.62" },
+    { "word": "german", "score": "0.55" },
+    { "word": "brecht", "score": "0.51" },
+    { "word": "press", "score": "0.50" }
+  ],
+  "kmp_context": [
+    "Martin Luther - Wikipedia Jump to content From Wikipedia, the free encyclopedia German priest, theologian and author 14831546 For other uses, see Martin Luther disambiguation .",
+    "Martin Luther   l u r  LOO -thr  German matin lt  10 November 1483 18 February 1546 was a German priest, theologian , author, hymnwriter , professor, and former Augustinian friar .",
+    "Luther was the seminal figure of the Protestant Reformation , and his theological beliefs form the basis of Lutheranism ."
+  ],
+  "stats": {
+    "total_sentences": 1185,
+    "dupes_removed": 0,
+    "top_keyword": "luther"
+  }
+}
